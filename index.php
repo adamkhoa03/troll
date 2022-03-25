@@ -1,5 +1,6 @@
 <meta property="og:image" content="https://icdn.dantri.com.vn/thumb_w/770/2022/03/01/hacker-nga-1646146686700.jpg">
-<meta property="og:title" content="Không phải virus đừng sợ">
+<meta property="og:title" content="Không phải virus đừng sợ ^^">
+<meta property="og:description" content="Câu trả lời của bạn sẽ giúp mình biết bạn đối với mình như thế nào?">
 <div class='box-love'>
   <span>Bạn có yêu mình không</span>
   <div class='box'>
